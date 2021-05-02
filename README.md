@@ -8,5 +8,5 @@ Assets were gathered from Kenny.nl and the terrain was from Jaynam's Patreon Pag
 #Further Development
 I would like to fix the problem of the dialogue being skipped and to add in an obstacle that makes it harder to shoot the targets, or add in mechanics that make it that there is a certain order in which the targets need to be shot.
 
-#Created By:
+# Created By:
 Kraig Foster
