@@ -1,2 +1,4 @@
-# 06-3D-RPG
-A short rpg for the final project of msch c220.
+# Godot-3D-Template
+Godot Template for 3D Games
+
+Includes Keyboard mappings and Global.gd
